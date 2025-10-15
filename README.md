@@ -11,16 +11,16 @@ Esta aplicación web interactiva fue desarrollada como parte del **Sprint 7: Her
 - Despliegue de aplicaciones en la nube (**Render**)
 - Control de versiones con **Git/GitHub**
 
-## 🚀 **Funcionalidades**
+## **Funcionalidades**
 
 La aplicación permite a los usuarios:
 
-- **📈 Visualizar histogramas**
-- **🔍 Crear diagramas de dispersión** para analizar la relaciónes entre 2 columnas
-- **✅ Usar controles interactivos** (botones y checkboxes) para generar gráficos dinámicamente
-- **📱 Interfaz responsive** que funciona en diferentes dispositivos
+- **Visualizar histogramas**
+- **Crear diagramas de dispersión** para analizar la relaciónes entre 2 columnas
+- **Usar controles interactivos** (botones y checkboxes) para generar gráficos dinámicamente
+- **Interfaz responsive** que funciona en diferentes dispositivos
 
-## 🛠️ **Tecnologías Utilizadas**
+## **Tecnologías Utilizadas**
 
 - **Python**
 - **Streamlit** - Framework para aplicaciones web
